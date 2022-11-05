@@ -7,12 +7,12 @@ Electric vehicles (EV) are vehicles that use electric motors as a source of prop
 <img src="b9a9a100-d034-11ea-9e56-2f70d6dc28bd.jpg">
 
 Tools Ued:<br>
--VSCode [IDE]
+- VSCode [IDE]
 
 Libraries & Frameworks Used:<br>
--nodejs<br>
--express<br>
--axios<br>
--cheerio<br>
+- nodejs<br>
+- express<br>
+- axios<br>
+- cheerio<br>
 
 
